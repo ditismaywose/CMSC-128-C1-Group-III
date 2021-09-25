@@ -1,2 +1,3 @@
 # C128-Group---3
-Group repository in Github
+
+Hello! Welcome to the our group's repository in Github.
